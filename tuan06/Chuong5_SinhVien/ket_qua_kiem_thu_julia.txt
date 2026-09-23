@@ -1,0 +1,25 @@
+Test Summary:      | Pass  Total  Time
+Danh sách liên kết |   18     18  0.2s
+Test Summary: | Pass  Total  Time
+Ngăn xếp      |    6      6  0.0s
+Test Summary: | Pass  Total  Time
+Hàng đợi vòng |   21     21  0.2s
+Test Summary:         | Pass  Total  Time
+Ngoặc và kiểu đầu vào |   14     14  0.1s
+Test Summary:                                   | Pass  Total  Time
+Đối chiếu 1000 thao tác danh sách, seed cố định | 1272   1272  0.1s
+Test Summary:                                  | Pass  Total  Time
+Đối chiếu 1000 thao tác hàng đợi, seed cố định | 2000   2000  0.0s
+Đã kết thúc kiểm thử cơ bản. Xem kết quả Test Summary ở trên.
+Test Summary:    | Pass  Total  Time
+BT1: đếm giá trị |    5      5  0.1s
+Test Summary:        | Pass  Total  Time
+BT2: xoá mọi giá trị |   11     11  0.0s
+Test Summary:            | Pass  Total  Time
+BT3: lấy nhiều theo LIFO |   16     16  0.1s
+Test Summary:           | Pass  Total  Time
+BT4: xem k phần tử FIFO |   14     14  0.1s
+Test Summary:                   | Pass  Total  Time
+200 dãy đối chiếu, seed cố định |  600    600  0.1s
+Test Summary:               | Pass  Total  Time
+Kiem Thu Them Cua Sinh Vien |    6      6  0.2s
